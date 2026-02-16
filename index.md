@@ -11,11 +11,11 @@ title: Greece Grad Trip 2026
 
 ## Documents
 
-### [Katie's Original Itinerary](katies-itinerary)
+### [Original Proposed Itinerary](original-itinerary)
 The starting proposal — Paros + Milos, flights, accommodation, day-by-day activities, budget.
 
 ### [Planning Guide](planning-guide)
-Analysis of Katie's plan, budget breakdown, the Mykonos cost comparison, and a 3-round process for 12 people to agree on a trip.
+Analysis of the original plan, budget breakdown, the Mykonos cost comparison, and a 3-round process for 12 people to agree on a trip.
 
 ### [Island & Villa Research](island-research)
 Head-to-head comparison of 8 Greek islands (Paros, Milos, Naxos, Mykonos, Ios, Santorini, Crete, Koufonisia), villa options for 12, and recommended island combos ranked.

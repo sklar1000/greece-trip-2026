@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Katie's Original Itinerary
+title: Original Itinerary
 ---
 
-# Katie's Original Itinerary — Paros & Milos
+# Original Itinerary — Paros & Milos
 
 [Back to home](./) | [Planning Guide](planning-guide) | [Island Research](island-research)
 
-This is Katie's proposed plan, captured as-is for reference.
+This is the original proposed plan, captured as-is for reference.
 
 ---
 
@@ -97,7 +97,7 @@ This is Katie's proposed plan, captured as-is for reference.
 
 ---
 
-## Budget Summary (Katie's Plan)
+## Budget Summary (the original Plan)
 
 | Item | Per Person |
 |------|-----------|

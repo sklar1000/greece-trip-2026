@@ -7,7 +7,7 @@ title: Planning Guide
 
 [Back to home](./) | [Island & Villa Research](island-research)
 
-## Katie's Itinerary — Budget Breakdown
+## Original Proposed Itinerary — Budget Breakdown
 
 **Route**: Newark → Athens → Paros (4 nights) → Milos (3 nights) → Athens (1 night) → Newark
 
@@ -26,7 +26,7 @@ That's roughly $130/day for food and activities in the Greek islands in June —
 
 ---
 
-## What Katie Got Right
+## What the Original Plan Got Right
 
 - **Paros and Milos are genuinely strong picks** — not the obvious tourist traps, legitimately great food scenes, beautiful beaches, and way more authentic than Mykonos or Santorini.
 - **Naousa is the right base on Paros** — walkable to beaches, restaurants, and nightlife. It's where you want to be.

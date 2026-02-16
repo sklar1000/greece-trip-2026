@@ -5,8 +5,8 @@
 Upload ALL the documents in this repo to a ChatGPT (or Claude) conversation. Then you can ask questions, compare options, and work through decisions with the group in real time.
 
 **Documents included:**
-1. **Katie's Itinerary** (`katies-itinerary.md`) — the original proposed plan (Paros + Milos)
-2. **Planning Guide** (`planning-guide.md`) — budget analysis of Katie's plan, the Mykonos debate, and a group decision process
+1. **Original Itinerary** (`original-itinerary.md`) — the starting proposed plan (Paros + Milos)
+2. **Planning Guide** (`planning-guide.md`) — budget analysis, the Mykonos debate, and a group decision process
 3. **Island & Villa Research** (`island-research.md`) — deep comparison of 8 Greek islands + villa options + recommended combos
 
 ---
@@ -39,11 +39,11 @@ Upload ALL the documents in this repo to a ChatGPT (or Claude) conversation. The
 | Dates (June 1-10) | Mostly locked |
 | Flying from Newark | Decided |
 | Greece as destination | Decided |
-| Which islands | **OPEN** — Katie proposed Paros + Milos; research suggests Naxos + Paros may be stronger |
+| Which islands | **OPEN** — original plan proposed Paros + Milos; research suggests Naxos + Paros may be stronger |
 | Mykonos yes/no | **OPEN** — some want it, budget analysis says it's 2-5x more expensive |
 | Accommodation style | Villa preferred, but hotel is fallback |
 | Specific villa bookings | **OPEN** — need to search and book soon (June books fast) |
-| Daily itinerary | **OPEN** — Katie has suggestions, nothing locked |
+| Daily itinerary | **OPEN** — original plan has suggestions, nothing locked |
 | How to split costs | **OPEN** |
 
 ---
@@ -100,5 +100,5 @@ Once you've uploaded the docs, try asking things like:
 - "What restaurants should we book in advance in Naousa?"
 - "If 4 people really want Mykonos, could we do a day trip from Paros?"
 - "Build us a budget spreadsheet — what will this trip actually cost per person?"
-- "What's the argument against Katie's original plan?"
+- "What's the argument against the original plan?"
 - "We decided on Naxos + Paros. Now help us find villas."

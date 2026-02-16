@@ -11,9 +11,9 @@ One person, one AI (Claude), 51 minutes start to finish.
 
 ## Timeline
 
-**2:00 PM** — Uploaded Katie's 2-page PDF itinerary. Pasted Ella's text messages about what the group wants (budget, vibes, preferences). Asked Claude to help.
+**2:00 PM** — Uploaded a friend's 2-page PDF itinerary. Pasted text messages about what the group wants (budget, vibes, preferences). Asked Claude to help.
 
-**2:03 PM** — Claude returned: budget breakdown of Katie's plan, analysis of what she got right/wrong, the cost case against Mykonos, and a 3-round group decision framework for 12 people.
+**2:03 PM** — Claude returned: budget breakdown of the proposed plan, analysis of what it got right/wrong, the cost case against Mykonos, and a 3-round group decision framework for 12 people.
 
 **2:06 PM** — Asked Claude to write it up as a document. Planning Guide created.
 
@@ -31,9 +31,9 @@ Both agents ran simultaneously while I did other work.
 
 **2:30 PM** — Asked about publishing as a website instead of sending PDFs. Decided on GitHub Pages.
 
-**2:37 PM** — GitHub repo created, documents pushed, GitHub Pages enabled. Site live at sklar1000.github.io/greece-trip-2026.
+**2:37 PM** — GitHub repo created, documents pushed, GitHub Pages enabled. Site live.
 
-**2:39 PM** — Added Katie's original itinerary as a clean reference doc + a README designed as an "AI Chat Kit" so Ella can upload everything to ChatGPT and work through decisions interactively with the group.
+**2:39 PM** — Added the original itinerary as a clean reference doc + a README designed as an "AI Chat Kit" so the planner can upload everything to ChatGPT and work through decisions interactively with the group.
 
 **2:41 PM** — Site rebuilt with all 4 pages live. Done.
 
@@ -43,17 +43,17 @@ Both agents ran simultaneously while I did other work.
 
 | Artifact | What It Is |
 |----------|------------|
-| **Planning Guide** | Katie's budget analysis, Mykonos cost comparison, 3-round group decision process |
+| **Planning Guide** | Budget analysis, Mykonos cost comparison, 3-round group decision process |
 | **Island & Villa Research** | 8 islands compared, villa pricing for 12, 3 ranked combo itineraries, sources cited |
-| **Katie's Itinerary** | Clean reference version of the original PDF |
-| **AI Chat Kit (README)** | Situation brief + example prompts so Ella can run interactive AI sessions with the group |
+| **Original Itinerary** | Clean reference version of the starting PDF |
+| **AI Chat Kit (README)** | Situation brief + example prompts for interactive AI sessions with the group |
 | **Published website** | All docs rendered as web pages anyone can view on their phone |
 
 ## Inputs
 
-- One 2-page PDF (Katie's itinerary)
-- A few text messages from Ella about group preferences
-- 3 sentences of direction from me
+- One 2-page PDF (proposed itinerary)
+- A few text messages about group preferences
+- 3 sentences of direction
 
 ## Tools
 

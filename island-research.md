@@ -22,7 +22,7 @@ title: Island & Villa Research
 - $2,000/person is comfortable on both islands
 - If someone really wants Mykonos, it's a day-trip ferry from either island
 
-Katie's instinct on Paros is sound. Pairing it with Naxos covers the weaknesses (villa availability, food value, beach variety) while keeping everything she liked.
+The original instinct on Paros is sound. Pairing it with Naxos covers the weaknesses (villa availability, food value, beach variety) while keeping everything the first plan liked.
 
 ---
 
@@ -45,7 +45,7 @@ Katie's instinct on Paros is sound. Pairing it with Naxos covers the weaknesses 
 
 ## Island Deep Dives
 
-### 1. PAROS (Katie's Pick #1) — The All-Rounder
+### 1. PAROS (Original Pick #1) — The All-Rounder
 
 **Vibe**: The "it" island right now — crowned world's best island by Travel + Leisure. Trendy without being obnoxious. Naousa (north) is the social hub: waterfront bars, excellent restaurants, boutique shopping, and enough nightlife to keep things interesting. Parikia (port town) has more casual nightlife and a backpacker edge.
 
@@ -97,7 +97,7 @@ Katie's instinct on Paros is sound. Pairing it with Naxos covers the weaknesses 
 
 ---
 
-### 3. MILOS (Katie's Pick #2) — Stunning Beaches, Tricky for Groups
+### 3. MILOS (Original Pick #2) — Stunning Beaches, Tricky for Groups
 
 **Vibe**: The beach island. Volcanic landscape gives it 70+ beaches with otherworldly colors and rock formations. More rugged and adventurous than Paros — "rent an ATV and find a hidden cove" energy. Draws photographers and nature lovers more than partiers.
 
@@ -110,7 +110,7 @@ Katie's instinct on Paros is sound. Pairing it with Naxos covers the weaknesses 
 **Villa for 12**: HARDER. Most villas cap at 6-8 guests. You'd likely need two adjacent properties or a villa complex.
 - **Serenity House** — two traditional villas on shared land with pool
 - **Thiopetra Villas** — 2 independent villas, shared pool and gym
-- Hotel alternative: Aeolis Hotel in Adamas ($85/person for the stay — Katie's pick)
+- Hotel alternative: Aeolis Hotel in Adamas ($85/person for the stay — per original plan)
 - Price range: two villas combined at $500-900/night ($42-75/person/night)
 
 **The car problem**: You NEED a car or ATV on Milos. For 12 people, that's 3-4 rentals at $30-40/day each.
@@ -206,9 +206,9 @@ Same Naxos start (villa, food, beaches), then ferry to Ios for nightlife. If the
 
 ---
 
-### COMBO 3: Paros (4 nights) + Milos (3 nights) — KATIE'S ORIGINAL PLAN
+### COMBO 3: Paros (4 nights) + Milos (3 nights) — THE ORIGINAL PLAN
 
-This is what Katie proposed. It works, but Milos accommodation for 12 is the weak link (hotel, not villa) and Milos nightlife is dead. The beaches on Milos are jaw-dropping though — Sarakiniko and Kleftiko are once-in-a-lifetime.
+This is the original proposal. It works, but Milos accommodation for 12 is the weak link (hotel, not villa) and Milos nightlife is dead. The beaches on Milos are jaw-dropping though — Sarakiniko and Kleftiko are once-in-a-lifetime.
 
 **Budget estimate**: ~$1,800-2,200/person. The Milos leg is tighter due to car rentals and fewer options.
 
