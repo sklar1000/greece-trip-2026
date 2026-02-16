@@ -36,3 +36,7 @@ The [README](https://github.com/sklar1000/greece-trip-2026/blob/main/README.md) 
 ---
 
 **TL;DR**: Naxos (5 nights) + Paros (4 nights) is the top recommendation. Best food, best villa availability for 12, great beaches, 25-min ferry between them, and $2,000/person is comfortable on both.
+
+---
+
+[How This Was Made](how-this-was-made) — 51 minutes, start to finish.
