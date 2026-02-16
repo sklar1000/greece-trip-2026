@@ -57,6 +57,5 @@ Both agents ran simultaneously while I did other work.
 
 ## Tools
 
-- Claude (Anthropic) — analysis, research, writing, site setup
+- Claude Code (Anthropic) — analysis, research, writing, site setup
 - GitHub Pages — free static site hosting
-- Total cost: ~$0.50 in API usage
